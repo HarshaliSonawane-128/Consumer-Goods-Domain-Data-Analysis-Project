@@ -2,7 +2,7 @@
 # Consumer Goods Domain Data Analysis Project
 This is the challenge about provding insights to the management team in consumer Goods Domain.
 
-## PIC[https://github.com/HarshaliSonawane-128/Consumer-Goods-Domain-Data-Analysis-Project/blob/main/Consumer%20Goods%20Project.png]
+![pic](https://github.com/HarshaliSonawane-128/Consumer-Goods-Domain-Data-Analysis-Project/blob/main/Consumer%20Goods%20Project.png)
 
 ## 📕 Table of Contents
 - Project Objective 
