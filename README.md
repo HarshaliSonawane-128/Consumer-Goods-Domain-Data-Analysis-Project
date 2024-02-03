@@ -66,5 +66,5 @@ output contains these fields sorted by the total_sold_quantity, Quarter total_so
 
 ## My solution 
 - ![Data Anlysis](https://github.com/HarshaliSonawane-128/Consumer-Goods-Domain-Data-Analysis-Project/blob/main/Data%20Analysis.sql):The SQL queries for each of the ten ad hoc requests can be found in the SQL files.
-- Project Presentation Files **[link]** : This ppt file contains the presentation of this project.
+- ![Data Visucalization](https://github.com/HarshaliSonawane-128/Consumer-Goods-Domain-Data-Analysis-Project/blob/main/Consumer%20Goods%20Domain%20Ad-hoc%20Insightss.pptx) : This ppt file contains the presentation of this project.
   
