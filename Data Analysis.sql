@@ -137,7 +137,7 @@ select  channel , gross_sales_mln,
 round(gross_sales_mln * 100 / sum(gross_sales_mln) over() ,2) as percent 
 from  gross_sales_2021
 order by gross_sales_mln  desc
-limit 1;
+limit 3;
 
 
 /*10. Get the Top 3 products in each division that have a high
